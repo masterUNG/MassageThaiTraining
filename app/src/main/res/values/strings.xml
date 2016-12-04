@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Massage Thai Training</string>
+
+    <string name="hub1">ที่นั่ง</string>
+    <string name="hub2">ที่นอนหงาย</string>
+    <string name="hub3">ที่คว่ำ</string>
+    <string name="hub4">ที่นอนตะแครง</string>
+    <string name="hub5">นวดฝ่าเท้า</string>
+    <string name="hub6">ออกจากแอฟ</string>
+    <string name="title1">การนวดไทยแบบราชสำนัก</string>
+
+</resources>
